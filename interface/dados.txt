@@ -1,0 +1,9 @@
+Relatorio de Clientes 
+
+A loja Sk8-Life possui 5 cliente(s) 
+1. Vitor Freitas  
+2. Flavim do Pneu  
+3. Carl Johnson  
+4. Gabriel Toledo  
+5. Davi de Paula  
+City, 12/4/2023.
