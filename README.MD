@@ -12,3 +12,4 @@ and with Midjourney create the koala img</h4>
 
 ## How to run
 <h4> - Just open 'main_in_terminal' and run 'main.py' file. </h4>
+<h4> - Just open 'interface' and run 'interface.py' file. </h4>
